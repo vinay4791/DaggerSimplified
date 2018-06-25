@@ -9,7 +9,7 @@ public class Animal {
     private String type;
 
     public Animal() {
-        this.type = "Animal";
+        this.type = "Mammal";
     }
 
     public String getType() {
