@@ -1,0 +1,165 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/vinayjohn/Downloads/DaggerSimplified/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/vinayjohn/Downloads/DaggerSimplified/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/vinayjohn/Downloads/DaggerSimplified/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/vinayjohn/Downloads/DaggerSimplified/app/src/main/AndroidManifest.xml:2:1-22:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/vinayjohn/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/603b8f4a48c31dc5fcd82d31602a45e8/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.dagger:dagger-android-support:2.11] /Users/vinayjohn/.gradle/caches/transforms-1/files-1.1/dagger-android-support-2.11.aar/cb5c20b8db2c0692a940c09badb8b469/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.dagger:dagger-android:2.11] /Users/vinayjohn/.gradle/caches/transforms-1/files-1.1/dagger-android-2.11.aar/e3268d3a62045d16b4b6511615fa388c/AndroidManifest.xml:16:1-19:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/vinayjohn/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/37c70c288fa6b321f8a4ad91b13d5139/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/vinayjohn/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/58385e93dd6054a979ef0cd01519cf53/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /Users/vinayjohn/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/636457a80a5706da53aed4738642a64b/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/vinayjohn/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/b9d370e5d98cb3bf75d27cd07e4c3ae5/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/vinayjohn/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/4e444522de6d5187df81462b31f1c3e9/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/vinayjohn/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/2a6490861d7aee28b884f715ec0a432e/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/vinayjohn/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/e5c98479913302b971a2ed7af9389d3b/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/vinayjohn/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/6d952fc4ab78c9b9a2fa0e1d8970888a/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /Users/vinayjohn/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/33ad64022849f5695996111174e33b5e/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/vinayjohn/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/1ee322f9e63163b8a580ccae7eb3d170/AndroidManifest.xml:2:1-11:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/vinayjohn/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/1340b8387a3384cb434ecceae78ec620/AndroidManifest.xml:17:1-30:12
+INJECTED from /Users/vinayjohn/Downloads/DaggerSimplified/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/vinayjohn/Downloads/DaggerSimplified/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/vinayjohn/Downloads/DaggerSimplified/app/src/main/AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from /Users/vinayjohn/Downloads/DaggerSimplified/app/src/main/AndroidManifest.xml:3:5-53
+		INJECTED from /Users/vinayjohn/Downloads/DaggerSimplified/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vinayjohn/Downloads/DaggerSimplified/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/vinayjohn/Downloads/DaggerSimplified/app/src/main/AndroidManifest.xml
+		ADDED from /Users/vinayjohn/Downloads/DaggerSimplified/app/src/main/AndroidManifest.xml:2:1-22:12
+		INJECTED from /Users/vinayjohn/Downloads/DaggerSimplified/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/vinayjohn/Downloads/DaggerSimplified/app/src/main/AndroidManifest.xml
+		ADDED from /Users/vinayjohn/Downloads/DaggerSimplified/app/src/main/AndroidManifest.xml:2:1-22:12
+		INJECTED from /Users/vinayjohn/Downloads/DaggerSimplified/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/vinayjohn/Downloads/DaggerSimplified/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/vinayjohn/Downloads/DaggerSimplified/app/src/main/AndroidManifest.xml:5:5-20:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/vinayjohn/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/603b8f4a48c31dc5fcd82d31602a45e8/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/vinayjohn/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/603b8f4a48c31dc5fcd82d31602a45e8/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/vinayjohn/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/37c70c288fa6b321f8a4ad91b13d5139/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/vinayjohn/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/37c70c288fa6b321f8a4ad91b13d5139/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/vinayjohn/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/58385e93dd6054a979ef0cd01519cf53/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/vinayjohn/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/58385e93dd6054a979ef0cd01519cf53/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/vinayjohn/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/636457a80a5706da53aed4738642a64b/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/vinayjohn/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/636457a80a5706da53aed4738642a64b/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/vinayjohn/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/b9d370e5d98cb3bf75d27cd07e4c3ae5/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/vinayjohn/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/b9d370e5d98cb3bf75d27cd07e4c3ae5/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/vinayjohn/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/4e444522de6d5187df81462b31f1c3e9/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/vinayjohn/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/4e444522de6d5187df81462b31f1c3e9/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/vinayjohn/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/2a6490861d7aee28b884f715ec0a432e/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/vinayjohn/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/2a6490861d7aee28b884f715ec0a432e/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/vinayjohn/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/e5c98479913302b971a2ed7af9389d3b/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/vinayjohn/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/e5c98479913302b971a2ed7af9389d3b/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/vinayjohn/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/6d952fc4ab78c9b9a2fa0e1d8970888a/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/vinayjohn/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/6d952fc4ab78c9b9a2fa0e1d8970888a/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/vinayjohn/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/33ad64022849f5695996111174e33b5e/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/vinayjohn/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/33ad64022849f5695996111174e33b5e/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/vinayjohn/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/1ee322f9e63163b8a580ccae7eb3d170/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/vinayjohn/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/1ee322f9e63163b8a580ccae7eb3d170/AndroidManifest.xml:9:5-20
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/vinayjohn/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/1340b8387a3384cb434ecceae78ec620/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/vinayjohn/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/1340b8387a3384cb434ecceae78ec620/AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from /Users/vinayjohn/Downloads/DaggerSimplified/app/src/main/AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from /Users/vinayjohn/Downloads/DaggerSimplified/app/src/main/AndroidManifest.xml:9:9-41
+	android:roundIcon
+		ADDED from /Users/vinayjohn/Downloads/DaggerSimplified/app/src/main/AndroidManifest.xml:10:9-54
+	android:icon
+		ADDED from /Users/vinayjohn/Downloads/DaggerSimplified/app/src/main/AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from /Users/vinayjohn/Downloads/DaggerSimplified/app/src/main/AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from /Users/vinayjohn/Downloads/DaggerSimplified/app/src/main/AndroidManifest.xml:12:9-40
+	android:name
+		ADDED from /Users/vinayjohn/Downloads/DaggerSimplified/app/src/main/AndroidManifest.xml:6:9-28
+activity#com.example.vinayjohn.daggersimplified.MainActivity
+ADDED from /Users/vinayjohn/Downloads/DaggerSimplified/app/src/main/AndroidManifest.xml:13:9-19:20
+	android:name
+		ADDED from /Users/vinayjohn/Downloads/DaggerSimplified/app/src/main/AndroidManifest.xml:13:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/vinayjohn/Downloads/DaggerSimplified/app/src/main/AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from /Users/vinayjohn/Downloads/DaggerSimplified/app/src/main/AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from /Users/vinayjohn/Downloads/DaggerSimplified/app/src/main/AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/vinayjohn/Downloads/DaggerSimplified/app/src/main/AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from /Users/vinayjohn/Downloads/DaggerSimplified/app/src/main/AndroidManifest.xml:17:27-74
+uses-sdk
+INJECTED from /Users/vinayjohn/Downloads/DaggerSimplified/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/vinayjohn/Downloads/DaggerSimplified/app/src/main/AndroidManifest.xml
+INJECTED from /Users/vinayjohn/Downloads/DaggerSimplified/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/vinayjohn/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/603b8f4a48c31dc5fcd82d31602a45e8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/vinayjohn/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/603b8f4a48c31dc5fcd82d31602a45e8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.dagger:dagger-android-support:2.11] /Users/vinayjohn/.gradle/caches/transforms-1/files-1.1/dagger-android-support-2.11.aar/cb5c20b8db2c0692a940c09badb8b469/AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:dagger-android-support:2.11] /Users/vinayjohn/.gradle/caches/transforms-1/files-1.1/dagger-android-support-2.11.aar/cb5c20b8db2c0692a940c09badb8b469/AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:dagger-android:2.11] /Users/vinayjohn/.gradle/caches/transforms-1/files-1.1/dagger-android-2.11.aar/e3268d3a62045d16b4b6511615fa388c/AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:dagger-android:2.11] /Users/vinayjohn/.gradle/caches/transforms-1/files-1.1/dagger-android-2.11.aar/e3268d3a62045d16b4b6511615fa388c/AndroidManifest.xml:18:3-42
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/vinayjohn/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/37c70c288fa6b321f8a4ad91b13d5139/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/vinayjohn/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/37c70c288fa6b321f8a4ad91b13d5139/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/vinayjohn/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/58385e93dd6054a979ef0cd01519cf53/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/vinayjohn/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/58385e93dd6054a979ef0cd01519cf53/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /Users/vinayjohn/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/636457a80a5706da53aed4738642a64b/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /Users/vinayjohn/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/636457a80a5706da53aed4738642a64b/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/vinayjohn/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/b9d370e5d98cb3bf75d27cd07e4c3ae5/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/vinayjohn/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/b9d370e5d98cb3bf75d27cd07e4c3ae5/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/vinayjohn/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/4e444522de6d5187df81462b31f1c3e9/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/vinayjohn/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/4e444522de6d5187df81462b31f1c3e9/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/vinayjohn/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/2a6490861d7aee28b884f715ec0a432e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/vinayjohn/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/2a6490861d7aee28b884f715ec0a432e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/vinayjohn/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/e5c98479913302b971a2ed7af9389d3b/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/vinayjohn/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/e5c98479913302b971a2ed7af9389d3b/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/vinayjohn/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/6d952fc4ab78c9b9a2fa0e1d8970888a/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/vinayjohn/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/6d952fc4ab78c9b9a2fa0e1d8970888a/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.1.0] /Users/vinayjohn/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/33ad64022849f5695996111174e33b5e/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/vinayjohn/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/33ad64022849f5695996111174e33b5e/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/vinayjohn/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/1ee322f9e63163b8a580ccae7eb3d170/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/vinayjohn/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/1ee322f9e63163b8a580ccae7eb3d170/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/vinayjohn/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/1340b8387a3384cb434ecceae78ec620/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/vinayjohn/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/1340b8387a3384cb434ecceae78ec620/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/vinayjohn/Downloads/DaggerSimplified/app/src/main/AndroidManifest.xml
+INJECTED from /Users/vinayjohn/Downloads/DaggerSimplified/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/vinayjohn/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/37c70c288fa6b321f8a4ad91b13d5139/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/vinayjohn/Downloads/DaggerSimplified/app/src/main/AndroidManifest.xml
+		ADDED from /Users/vinayjohn/Downloads/DaggerSimplified/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vinayjohn/Downloads/DaggerSimplified/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/vinayjohn/Downloads/DaggerSimplified/app/src/main/AndroidManifest.xml
+		ADDED from /Users/vinayjohn/Downloads/DaggerSimplified/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vinayjohn/Downloads/DaggerSimplified/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:recyclerview-v7:26.1.0] /Users/vinayjohn/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/603b8f4a48c31dc5fcd82d31602a45e8/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/vinayjohn/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/37c70c288fa6b321f8a4ad91b13d5139/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/vinayjohn/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/37c70c288fa6b321f8a4ad91b13d5139/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/vinayjohn/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/58385e93dd6054a979ef0cd01519cf53/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/vinayjohn/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/58385e93dd6054a979ef0cd01519cf53/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/vinayjohn/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/636457a80a5706da53aed4738642a64b/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/vinayjohn/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/636457a80a5706da53aed4738642a64b/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/vinayjohn/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/b9d370e5d98cb3bf75d27cd07e4c3ae5/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/vinayjohn/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/b9d370e5d98cb3bf75d27cd07e4c3ae5/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/vinayjohn/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/4e444522de6d5187df81462b31f1c3e9/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/vinayjohn/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/4e444522de6d5187df81462b31f1c3e9/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/vinayjohn/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/2a6490861d7aee28b884f715ec0a432e/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/vinayjohn/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/2a6490861d7aee28b884f715ec0a432e/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/vinayjohn/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/e5c98479913302b971a2ed7af9389d3b/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/vinayjohn/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/e5c98479913302b971a2ed7af9389d3b/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/vinayjohn/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/6d952fc4ab78c9b9a2fa0e1d8970888a/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/vinayjohn/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/6d952fc4ab78c9b9a2fa0e1d8970888a/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/vinayjohn/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/33ad64022849f5695996111174e33b5e/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/vinayjohn/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/33ad64022849f5695996111174e33b5e/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:recyclerview-v7:26.1.0] /Users/vinayjohn/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/603b8f4a48c31dc5fcd82d31602a45e8/AndroidManifest.xml:25:13-35
+	android:name
+		ADDED from [com.android.support:recyclerview-v7:26.1.0] /Users/vinayjohn/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/603b8f4a48c31dc5fcd82d31602a45e8/AndroidManifest.xml:24:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/vinayjohn/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/1340b8387a3384cb434ecceae78ec620/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/vinayjohn/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/1340b8387a3384cb434ecceae78ec620/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/vinayjohn/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/1340b8387a3384cb434ecceae78ec620/AndroidManifest.xml:26:13-58
